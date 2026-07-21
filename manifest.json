@@ -1,0 +1,18 @@
+{
+  "name": "Cauã & Clara — Casamento",
+  "short_name": "C & C",
+  "description": "Site de casamento de Cauã e Clara",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F0E8",
+  "theme_color": "#C9A962",
+  "lang": "pt-PT",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
